@@ -1,0 +1,3 @@
+Esse arquivo mysql-connector-java-5.1.30-bin.jar
+deve ser colado na pasta \opt\pentaho\data-integration\lib
+para conectar com o banco mysql

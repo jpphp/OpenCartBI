@@ -1,0 +1,42 @@
+TABELAS DO OPENCART QUE SERÃO USADAS PARA ETL
+
+TABELA dd_address - DADOS DE REGIAO, ENDEREÇO
+
+address_1  - ENDEREÇO  
+address_2
+  - BAIRRO
+city - CIDADE
+postcode - CEP
+country_id - ID PAIS,
+
+TABELA dd_country - PAIS
+
+country_id - ID DO PAIS
+name - NOME DO PAIS
+
+TABELA dd_zone_id - Estados
+name - nome estado
+
+TABELA dd_category_description - CATEGORIA DE PRODUTOS
+
+name - NOME DA CATEGORIA
+
+
+
+TABELA dd_customer - CLIENTES
+name
+
+TABELA dd_manufacturer - FABRICANTES
+name
+
+TABELA dd_order - PEDIDOS
+
+TABELA dd_order_product - PRODUTOS VENDIDOS
+
+TABELA dd_order_total - VALOR DA VENDA
+
+TABELA dd_product - MODELO , IMAGENS, VISUALIZAÇÕES DOS PRODUTOS
+
+TABELA dd_product_description - NOME, DESCRICAO DO PRODUTO
+
+TABELA dd_return - PRODUTOS DEVOLVIDOS
